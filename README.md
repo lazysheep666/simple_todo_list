@@ -1,3 +1,6 @@
-## npm install
+## This is one of my task in Baidu Front-End Academy
 
-## npm start
+## How to start:
+1. npm install
+2. dev: npm start
+3. bundle: npm build
